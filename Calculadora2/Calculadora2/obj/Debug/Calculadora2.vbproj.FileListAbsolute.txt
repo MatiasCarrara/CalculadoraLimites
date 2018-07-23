@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.xml
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Resources.resources
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.vbproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.xml
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.forma1.resources
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.forma2.resources
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.forma3.resources
+C:\Users\Alumno\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.inicio.resources
